@@ -26,7 +26,8 @@
 }
 
 .banner-section-bg-container {
-    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    background-image: url("./imgs/foodmunch-banner-bg.png");
+    /* background-image: url("./imgs/bg-1.png"); */
     height: 100vh;
     background-size: cover;
 }
